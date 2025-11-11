@@ -40,6 +40,6 @@ public class Rol
 
     @Override
     public String toString() {
-        return nombre + " - " + descripcion;
+        return id + " - " + nombre + " - " + descripcion;
     }
 }
